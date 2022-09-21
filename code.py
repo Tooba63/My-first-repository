@@ -4,3 +4,4 @@ print(value)
 value=4
 print(value)
 4
+print("hello world")
